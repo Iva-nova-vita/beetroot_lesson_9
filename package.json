@@ -1,0 +1,23 @@
+{
+  "name": "beetroot_lesson_9",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iva-nova-vita/beetroot_lesson_9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iva-nova-vita/beetroot_lesson_9/issues"
+  },
+  "homepage": "https://github.com/Iva-nova-vita/beetroot_lesson_9#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
